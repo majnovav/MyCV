@@ -1,0 +1,45 @@
+.left{
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: aquamarine;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: large;
+    color: rgb(233, 109, 109);
+}
+.img{
+    width: 160px; 
+    height: 200px;
+    margin-top: 5%;
+    border: azure;
+    border-style: solid;
+}
+.paragraph{
+    font-weight: bold;
+    font-size: x-large;
+    border:  rgb(233, 109, 109);
+    border-style: solid;
+  
+}
+
+p{
+    text-align: left;
+    font-size: larger;
+}
+.right{
+    float: right;
+    width: 70%;
+    height: 100%;
+    background-color: rgba(255, 160, 122, 0.747);
+}
+
+.paragraph1{
+    color: lightseagreen;
+    font-size: x-large;
+    font-weight: bold;
+    border-bottom: lightseagreen;
+    border-style: solid;
+    
+}
